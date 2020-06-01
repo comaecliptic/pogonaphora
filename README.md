@@ -1,8 +1,8 @@
 # *De novo* assembly and analysis of pogonophore *Siboglinum fiordicum* transcriptome at different larval stages
 
 ---
-![venn diagramm of diffexpression](venn_diagramm.jpg)
-![heat map of orthogroups](orthogroups.jpg)
+![venn diagramm of diffexpression](venn_diagramm.jpg "venn diagramm of diffexpression")
+![heat map of orthogroups](orthogroups.jpg "heat map of orthogroups")
 
 ## Aim of the project: 
 
@@ -28,4 +28,13 @@ To study the molecular basis for the segmentation of *Siboglinum fiordicum* usin
 - pathway enrichment analysis (GeneOntology) of “genes” with predominant expression at a particular stage of the cycle
 
 ## References
+__Articles__
 
+__Databases__
+- https://www.ncbi.nlm.nih.gov/nucleotide/
+- https://www.ncbi.nlm.nih.gov/protein/
+- https://pfam.xfam.org/
+- https://www.uniprot.org/
+- http://eggnog-mapper.embl.de/
+
+__Tools__
