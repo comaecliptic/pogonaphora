@@ -1,7 +1,9 @@
 # *De novo* assembly and analysis of pogonophore *Siboglinum fiordicum* transcriptome at different larval stages
 
 ---
-*картиночки с диаграммами и тепловой картой*
+![venn diagramm of diffexpression](venn_diagramm.jpg)
+![heat map of orthogroups](orthogroups.jpg)
+
 ## Aim of the project: 
 
 To study the molecular basis for the segmentation of *Siboglinum fiordicum* using transcriptomic data from different stages of the life cycle.
