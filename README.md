@@ -25,7 +25,7 @@ To study the molecular basis for the segmentation of *Siboglinum fiordicum* usin
 - Construction of orthogroups using __OrthoFinder__ and filtered reference sets of proteins from two other Annelida species: *Capitella teleta* and *Helobdella robusta*
 - pathway enrichment analysis (__GeneOntology__) of “genes” with predominant expression at a particular stage of the cycle
 
-### Results
+## Results
 - We prepared a reference set of 29032 protein coding sequences with significant expression 
 - Due to diffexpession analysis 18222 (63%) sequences active at all stages 2914 (10%), 2067 (7%), 8373 (29%) and 2596 (9%) sequences demonstrate predominant expression at the stages 3, 4, 5 of trophophores and adults, respectively
 ![venn diagramm of diffexpression](venn_diagramm.jpg "venn diagramm of diffexpression")
@@ -44,6 +44,9 @@ To study the molecular basis for the segmentation of *Siboglinum fiordicum* usin
 
 ## References
 __Articles__
+- Southward, E.C. Development of Perviata and Vestimentifera (Pogonophora). Hydrobiologia 402, 185–202 (1999). https://doi.org/10.1023/A:1003796626851
+- Southward, Eve & Schulze, Anja & Gardiner, Stephen. (2006). Pogonophora (Annelida): Form and function. https://doi.org/10.1007/1-4020-3240-4_13 
+- Bright, M., Eichinger, I. & von Salvini-Plawen, L. The metatrochophore of a deep-sea hydrothermal vent vestimentiferan (Polychaeta: Siboglinidae). Org Divers Evol 13, 163–188 (2013). https://doi.org/10.1007/s13127-012-0117-z
 
 __Databases__
 - https://www.ncbi.nlm.nih.gov/nucleotide/
