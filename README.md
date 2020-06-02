@@ -33,13 +33,13 @@ To study the molecular basis for the segmentation of *Siboglinum fiordicum* usin
 - 13745 orthogroups were built
 ![heat map of orthogroups](orthogroups.jpg "heat map of orthogroups")
 - 903 GO-terms were “enriched”, among them:
-| GO-term                  | life cycle stage | p-value          |
-|--------------------------|------------------|------------------|
-| animal organ development | aT4, aT5         | 0.00608, 0.00141 |
-| mesoderm morphogenesis   | aT3              | 0.00131          |
-| regionalization          | aT5              | 0.00332          |
-| cell proliferation       | aT5              | 5.4e-06          |
-| response to bacterium    | Adult            | 2.6e-06          |
+ GO-term                  | life cycle stage | p-value          
+--------------------------|------------------|------------------
+ animal organ development | aT4, aT5         | 0.00608, 0.00141 
+ mesoderm morphogenesis   | aT3              | 0.00131          
+ regionalization          | aT5              | 0.00332          
+ cell proliferation       | aT5              | 5.4e-06          
+ response to bacterium    | Adult            | 2.6e-06          
 
 ## References
 __Articles__
