@@ -1,8 +1,6 @@
 # *De novo* assembly and analysis of pogonophore *Siboglinum fiordicum* transcriptome at different larval stages
 
 ---
-![venn diagramm of diffexpression](venn_diagramm.jpg "venn diagramm of diffexpression")
-![heat map of orthogroups](orthogroups.jpg "heat map of orthogroups")
 
 ## Aim of the project: 
 
@@ -26,6 +24,22 @@ To study the molecular basis for the segmentation of *Siboglinum fiordicum* usin
 - co-expression clusters building (__Clust__)
 - Construction of orthogroups using __OrthoFinder__ and filtered reference sets of proteins from two other Annelida species: *Capitella teleta* and *Helobdella robusta*
 - pathway enrichment analysis (__GeneOntology__) of “genes” with predominant expression at a particular stage of the cycle
+
+### Results
+- We prepared a reference set of 29032 protein coding sequences with significant expression 
+- Due to diffexpession analysis 18222 (63%) sequences active at all stages 2914 (10%), 2067 (7%), 8373 (29%) and 2596 (9%) sequences demonstrate predominant expression at the stages 3, 4, 5 of trophophores and adults, respectively
+![venn diagramm of diffexpression](venn_diagramm.jpg "venn diagramm of diffexpression")
+- 11 co-expression clusters from 114 to 3193 in size were constructed
+- 13745 orthogroups were built
+![heat map of orthogroups](orthogroups.jpg "heat map of orthogroups")
+- 903 GO-terms were “enriched”, among them:
+| GO-term                  | life cycle stage | p-value          |
+|--------------------------|------------------|------------------|
+| animal organ development | aT4, aT5         | 0.00608, 0.00141 |
+| mesoderm morphogenesis   | aT3              | 0.00131          |
+| regionalization          | aT5              | 0.00332          |
+| cell proliferation       | aT5              | 5.4e-06          |
+| response to bacterium    | Adult            | 2.6e-06          |
 
 ## References
 __Articles__
