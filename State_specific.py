@@ -3,9 +3,9 @@ import argparse
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--file', type=str, required=True)
-parser.add_argument('--threshold', type=int, required=True)
-parser.add_argument('--out', type=str, required=True)
+parser.add_argument('--file', type=str, help='table in tsv format', required=True)
+parser.add_argument('--threshold', type=int, help='significant percent', required=True)
+parser.add_argument('--out', type=str, help='tag for output', required=True)
 args = parser.parse_args()
 
 
