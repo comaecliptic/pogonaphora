@@ -22,7 +22,7 @@ To study the molecular basis for the segmentation of *Siboglinum fiordicum* usin
 - The determination of encoded amino acid sequences using a two-step analysis of __TransDecoder__
 - Annotation (__NCBInt__, __NCBInr__, __SwissProt__, __PfamA__ and __eggNOG__ databases)
 - Co-expression clusters building (__Clust__)
-- Construction of orthogroups using __OrthoFinder__ and filtered reference sets of proteins from two other Annelida species: *Capitella teleta* and *Helobdella robusta*
+- Construction of orthogroups using __OrthoFinder__ and filtered reference sets of proteins from two other Annelida species: *Capitella teleta* (UniProt ID: UP000014760) and *Helobdella robusta* (UP000015101)
 - Pathway enrichment analysis (__GeneOntology__, using __topGO__) of “genes” with predominant expression at a particular stage of the cycle
 
 ## Results
@@ -57,7 +57,7 @@ __Databases__
 
 __Tools__
 - FastQC, v0.11.5: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
-- Karect: Allam, A., Kalnis, P., & Solovyev, V. (2015). Karect: accurate correction of substitution, insertion and deletion errors for next-generation sequencing data. Bioinformatics, 31(21), 3421-3428. https://doi.org/10.1093/bioinformatics/btv415
+- Karect, v1.0: Allam, A., Kalnis, P., & Solovyev, V. (2015). Karect: accurate correction of substitution, insertion and deletion errors for next-generation sequencing data. Bioinformatics, 31(21), 3421-3428. https://doi.org/10.1093/bioinformatics/btv415
 - fastp, v0.20.1: Chen, S., Zhou, Y., Chen, Y., & Gu, J. (2018). fastp: an ultra-fast all-in-one FASTQ preprocessor. Bioinformatics, 34(17), i884-i890. https://doi.org/10.1093/bioinformatics/bty560
 - Trinity, v2.9.1: Grabherr, M. G., Haas, B. J., Yassour, M., Levin, J. Z., Thompson, D. A., Amit, I., ... & Chen, Z. (2011). Trinity: reconstructing a full-length transcriptome without a genome from RNA-Seq data. Nature biotechnology, 29(7), 644. https://doi.org/10.1038/nbt.1883
 - CD-HIT-EST, v4.7: Li, W., & Godzik, A. (2006). Cd-hit: a fast program for clustering and comparing large sets of protein or nucleotide sequences. Bioinformatics, 22(13), 1658-1659. https://doi.org/10.1093/bioinformatics/btl158
@@ -69,5 +69,5 @@ __Tools__
 - Salmon, v1.0.1: Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017). Salmon provides fast and bias-aware quantification of transcript expression. Nature methods, 14(4), 417. https://doi.org/10.1038/nmeth.4197
 - TransDecoder, v5.5.0: https://github.com/TransDecoder/TransDecoder
 - Clust, v1.10.8: Abu-Jamous, B., & Kelly, S. (2018). Clust: automatic extraction of optimal co-expressed gene clusters from gene expression data. Genome biology, 19(1), 1-11. https://doi.org/10.1186/s13059-018-1536-8
-- OrthoFinder, 2.3.11: Emms, D. M., & Kelly, S. (2019). OrthoFinder: phylogenetic orthology inference for comparative genomics. Genome biology, 20(1), 1-14. https://doi.org/10.1186/s13059-019-1832-y
+- OrthoFinder, v2.3.11: Emms, D. M., & Kelly, S. (2019). OrthoFinder: phylogenetic orthology inference for comparative genomics. Genome biology, 20(1), 1-14. https://doi.org/10.1186/s13059-019-1832-y
 - topGO, v2.40.0: Alexa A, Rahnenfuhrer J (2020). topGO: Enrichment Analysis for Gene Ontology. R package version 2.40.0. https://doi.org/10.18129/B9.bioc.topGO
