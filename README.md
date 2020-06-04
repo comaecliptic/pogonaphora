@@ -30,7 +30,7 @@ To study the molecular basis for the segmentation of *Siboglinum fiordicum* usin
 - After the expession analysis 18222 (63%) sequences have been found at all stages while 2914 (10%), 2067 (7%), 8373 (29%) and 2596 (9%) sequences demonstrate predominant expression at the stages 3, 4, 5 of trochophores and adults, respectively
 ![Venn diagramm of expression](venn_diagramm.jpg "Venn diagramm of expression")
 - 11 co-expression clusters from 114 to 3193 in size were constructed
-![Co-expression clusters visualization. Vertical axis- normalized expression values, horizontal - life cycle stages](coexp_clusters.jpg)
+![Co-expression clusters visualization](coexp_clusters.jpg "Co-expression clusters visualization. Vertical axis- normalized expression values, horizontal - life cycle stages")
 - 13745 orthogroups were built
 ![heat map of orthogroups](orthogroups.jpg "heat map of orthogroups")
 - 903 GO-terms were “enriched”, selecting only terms with >=10 sequences with significant expression, among them:
